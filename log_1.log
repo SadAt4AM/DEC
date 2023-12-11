@@ -1,0 +1,4 @@
+date:2023-12-11 18:23:55.570478; name:hello_world; args:(), kwargs:{}; result:Hello World
+date:2023-12-11 18:23:55.571480; name:summator; args:(2, 2), kwargs:{}; result:4
+date:2023-12-11 18:23:55.571480; name:div; args:(6, 2), kwargs:{}; result:3.0
+date:2023-12-11 18:23:55.572477; name:summator; args:(4.3,), kwargs:{'b': 2.2}; result:6.5
